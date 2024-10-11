@@ -1,4 +1,4 @@
-Hi, I'm Sam Wise (Unfortunately its my alias). 
+Hi, I'm Sam Wise (Unfortunately its only my alias). 
 Some of my interests are in travelling, cyber security, software developing, and video games. 
 I'm currently learning a bunch of programming languages. Added Java and SQL into my set of knowledge.
 I'm looking to collaborate on creating new programs. I have a few projects I will be uploading here as I build them.
